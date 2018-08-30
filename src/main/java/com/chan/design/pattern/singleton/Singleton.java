@@ -1,4 +1,4 @@
-package com.chan.design.pattern;
+package com.chan.design.singleton;
 
 import com.chan.common.Stdout;
 
