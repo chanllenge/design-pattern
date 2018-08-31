@@ -1,4 +1,4 @@
-package com.chan.design.pattern.factory;
+package com.chan.design.pattern.factory.method;
 
 /**
  * Created by yuyuanhe

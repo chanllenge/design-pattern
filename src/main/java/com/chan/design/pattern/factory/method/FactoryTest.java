@@ -1,4 +1,5 @@
-package com.chan.design.pattern.factory;
+package com.chan.design.pattern.factory.method;
+
 
 /**
  * Created by yuyuanhe
@@ -6,8 +7,10 @@ package com.chan.design.pattern.factory;
  * Description:
  */
 public class FactoryTest {
+
     public static void main(String[] args) {
         IFactory factory = new Factory();
-        factory.createProduct().productMethod();
+        IProduct product = factory.createProduct();
+        product.productMethod();
     }
 }

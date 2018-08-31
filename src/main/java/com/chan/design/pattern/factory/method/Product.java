@@ -1,4 +1,4 @@
-package com.chan.design.pattern.factory;
+package com.chan.design.pattern.factory.method;
 
 import com.chan.common.Stdout;
 
